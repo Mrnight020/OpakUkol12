@@ -1,0 +1,10 @@
+G:\Programování\4.ROČNÍK\1.opacko\1.opacko\bin\Debug\1.opacko.exe.config
+G:\Programování\4.ROČNÍK\1.opacko\1.opacko\bin\Debug\1.opacko.exe
+G:\Programování\4.ROČNÍK\1.opacko\1.opacko\bin\Debug\1.opacko.pdb
+G:\Programování\4.ROČNÍK\1.opacko\1.opacko\obj\Debug\1.opacko.csprojAssemblyReference.cache
+G:\Programování\4.ROČNÍK\1.opacko\1.opacko\obj\Debug\_1.opacko.Form1.resources
+G:\Programování\4.ROČNÍK\1.opacko\1.opacko\obj\Debug\_1.opacko.Properties.Resources.resources
+G:\Programování\4.ROČNÍK\1.opacko\1.opacko\obj\Debug\1.opacko.csproj.GenerateResource.cache
+G:\Programování\4.ROČNÍK\1.opacko\1.opacko\obj\Debug\1.opacko.csproj.CoreCompileInputs.cache
+G:\Programování\4.ROČNÍK\1.opacko\1.opacko\obj\Debug\1.opacko.exe
+G:\Programování\4.ROČNÍK\1.opacko\1.opacko\obj\Debug\1.opacko.pdb
